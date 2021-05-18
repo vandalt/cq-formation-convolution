@@ -3,4 +3,5 @@ convolution
 convolution_omp
 compiler_info.txt
 output.png
-
+.ccls-cache/
+perf.data*
